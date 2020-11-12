@@ -42,7 +42,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 
 ## Live Demo
-To view the page click here: [QUOTES](https://https://dusarah.github.io/quote/.)
+To view the page click here:(https://https://dusarah.github.io/quote/.)
 
 ## Technology Used
 + Angular JS
